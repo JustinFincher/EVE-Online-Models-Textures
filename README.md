@@ -13,3 +13,9 @@ Now only Amarr Ships/StarGates/Stations . Will add more when I am free of time.
 然后模型也被用来做成了一个在iOS上的一个[查看器](https://itunes.apple.com/us/app/eve-ai-ma-zu-mo-xing-cha-kan/id983955784?l=zh&ls=1&mt=8)  
 目前只有爱玛族的飞船星门和空间站 以后有时间再加
 
+#PREVIEW/演示
+![1](https://github.com/JustinFincher/EVE-Online-Models-Textures/blob/master/Preview_Pics/1.png?raw=true)
+
+![2](https://github.com/JustinFincher/EVE-Online-Models-Textures/blob/master/Preview_Pics/2.png?raw=true)
+
+![3](https://github.com/JustinFincher/EVE-Online-Models-Textures/blob/master/Preview_Pics/3.png?raw=true)
